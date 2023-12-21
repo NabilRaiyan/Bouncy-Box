@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class playerScript : MonoBehaviour
 {
+    // variable for sideforce and forward force
     public Rigidbody rb;
     public float forwardForce = 2200f;
     public float sideForce = 500f;
