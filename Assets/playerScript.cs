@@ -5,10 +5,11 @@ public class playerScript : MonoBehaviour
 {
     // variable for sideforce and forward force
     public Rigidbody rb;
-    public float forwardForce = 2200f;
+    public float forwardForce = 2400f;
     public float sideForce = 500f;
 
 
+    // Update is called once per frame
     void FixedUpdate()
     {
         // Time.deltatime means the time interval in seconds it took from the last frame to the current frame.
