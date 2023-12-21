@@ -6,7 +6,7 @@ public class playerCollsiionScript : MonoBehaviour
     private void OnCollisionEnter(Collision collisionInfo)
     {
         // checking collision with obstacle
-        if (collisionInfo.transform.name == "obstacle")
+        if (collisionInfo.transform.tag == "obstacle")
         {
             Debug.Log("Hit");
         }

@@ -19,11 +19,11 @@ public class playerScript : MonoBehaviour
         // adding key event listener to left or right movement of player
         if (Input.GetKey("d"))
         {
-            rb.AddForce(sideForce * Time.deltaTime, 0, 0);
+            rb.AddForce(sideForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
         else if (Input.GetKey("a"))
         {
-            rb.AddForce(-sideForce * Time.deltaTime, 0, 0);
+            rb.AddForce(-sideForce * Time.deltaTime, 0, 0, ForceMode.VelocityChange);
         }
     }
 }
