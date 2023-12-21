@@ -9,7 +9,6 @@ public class playerScript : MonoBehaviour
     public float sideForce = 500f;
 
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         // Time.deltatime means the time interval in seconds it took from the last frame to the current frame.
