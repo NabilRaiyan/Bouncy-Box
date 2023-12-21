@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{47C5FCD4-CABC-B032-0317-8F966BCA357D}|">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/playerScript.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bc3f7561-aab0-4f26-b52a-5738d6654e99" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cameraFollow.cs">
     <Files>
-      <File FileName="Assets/playerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/playerScript.cs" Line="18" Column="73" />
+      <File FileName="Assets/cameraFollow.cs" Line="13" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="My first game" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="playerScript.cs" selected="True" />
-            </Node>
+            <Node name="Assets" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3df5ace1-4749-4abb-9b24-c1653723a918" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
