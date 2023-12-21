@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets/cameraFollow.cs" />
     <Compile Include="Assets/playerScript.cs" />
+    <Compile Include="Assets/playerCollsiionScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
