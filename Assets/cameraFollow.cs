@@ -5,7 +5,7 @@ public class cameraFollow : MonoBehaviour
 {
 
     public Transform player;
-    public Vector3 offset; // storing 3 floating point variable
+    public Vector3 offset; 
 
     // Update is called once per frame
     void Update()
