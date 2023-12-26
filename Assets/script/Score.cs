@@ -8,6 +8,6 @@ public class Score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        playerPosition.position.z;
+        Debug.Log(playerPosition.position.z);
     }
 }
