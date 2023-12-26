@@ -8,6 +8,6 @@ public class Score : MonoBehaviour
     
     void Update()
     {
-        Debug.Log(playerPosition.position.z);
+        scoreText.text = playerPosition.position.z.ToString();
     }
 }
