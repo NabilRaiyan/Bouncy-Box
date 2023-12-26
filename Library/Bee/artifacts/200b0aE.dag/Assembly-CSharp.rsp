@@ -353,6 +353,7 @@
 "Assets/script/cameraFollow.cs"
 "Assets/script/playerCollsiionScript.cs"
 "Assets/script/playerScript.cs"
+"Assets/script/Score.cs"
 -langversion:9.0
 
 /deterministic
