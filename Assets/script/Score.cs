@@ -1,11 +1,11 @@
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class Score : MonoBehaviour
 {
     public Transform playerPosition;
+    public TextMeshProUGUI scoreText; 
     
-    // Update is called once per frame
     void Update()
     {
         Debug.Log(playerPosition.position.z);
