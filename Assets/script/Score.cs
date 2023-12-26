@@ -3,6 +3,7 @@ using TMPro;
 
 public class Score : MonoBehaviour
 {
+    // variable to get player position and text in GUI
     public Transform playerPosition;
     public TextMeshProUGUI scoreText; 
     
